@@ -1,11 +1,11 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Letakof</title>
         <item>
             <title>0.5.1</title>
-            <pubDate>Mon, 05 Oct 2026 14:58:32 +0300</pubDate>
-            <sparkle:version>21</sparkle:version>
+            <pubDate>Mon, 05 Oct 2026 15:30:53 +0300</pubDate>
+            <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -16,8 +16,16 @@
 ## Improvements
 
 - Improved device name detection.
+
+## Исправления
+
+- Исправлена упаковка приложения для macOS.
+
+## Fixes
+
+- Fixed macOS application packaging.
 ]]></description>
-            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.1/Letakof-mac.dmg" length="79320835" type="application/octet-stream" sparkle:edSignature="daD+8VkLeYwPxWi7p1ysLllorFZaKpDYAudJNt2u3giujexH/9aPGBip8Lel7P1edcOYtOQvvv+VLffr0looAg=="/>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.1/Letakof-mac.dmg" length="79320709" type="application/octet-stream" sparkle:edSignature="48b8q/pImFFcg3VlYD7EdB64vlAseRMHOnr+pSM+OoHB/0TpZkem3ZDc7Qjjs2Tj4m4I9hWV/HQYPzXpIxcSDg=="/>
         </item>
         <item>
             <title>0.5.0</title>
@@ -26,10 +34,10 @@
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Версия 0.5.0 для macOS. Бета-релиз.
+            <description sparkle:format="markdown">Версия 0.5.0 для macOS. Бета-релиз.
 
 Version 0.5.0 for macOS. Beta release.
-]]></description>
+</description>
             <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.0/Letakof-mac.dmg" length="79307596" type="application/octet-stream" sparkle:edSignature="H53OT4kripUxUdOYMfpl9TV/kJfMGbc11vKq+TMOO7tM+95sf9nxE5DRjKBen5Vrfq3dsrWygku7APRH7xhrAA=="/>
         </item>
     </channel>
