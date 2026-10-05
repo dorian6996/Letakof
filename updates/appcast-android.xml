@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof for Android</title>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Mon, 05 Oct 2026 02:15:46 +0300</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[Версия 0.5.0 для Android. Бета-релиз.
+
+Version 0.5.0 for Android. Beta release.]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.0/Letakof-android-arm64.apk" length="37445504" type="application/vnd.android.package-archive"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+# Product documentation, repository assets and update feeds only.
+/*
+!/.gitignore
+!/README.md
+!/README.ru.md
+!/assets/
+/assets/*
+!/assets/app-icon.png
+!/assets/android-ru.gif
+!/assets/android-en.gif
+!/assets/mac-ru.gif
+!/assets/mac-en.gif
+!/assets/windows-ru.gif
+!/assets/windows-en.gif
+!/updates/
+/updates/*
+!/updates/appcast-macos.xml
+!/updates/appcast-windows.xml
+!/updates/appcast-android.xml
+!/changelog/
+/changelog/*
+!/changelog/macos-0.5.0.md
+!/changelog/windows-0.5.0.md
+!/changelog/android-0.5.0.md
