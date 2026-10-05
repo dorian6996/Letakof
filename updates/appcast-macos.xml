@@ -3,6 +3,23 @@
     <channel>
         <title>Letakof</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Mon, 05 Oct 2026 14:58:32 +0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Улучшения
+
+- Улучшено определение имени устройства.
+
+## Improvements
+
+- Improved device name detection.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.1/Letakof-mac.dmg" length="79320835" type="application/octet-stream" sparkle:edSignature="daD+8VkLeYwPxWi7p1ysLllorFZaKpDYAudJNt2u3giujexH/9aPGBip8Lel7P1edcOYtOQvvv+VLffr0looAg=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Mon, 05 Oct 2026 03:19:55 +0300</pubDate>
             <sparkle:version>20</sparkle:version>

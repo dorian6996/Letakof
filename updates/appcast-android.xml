@@ -3,6 +3,20 @@
     <channel>
         <title>Letakof for Android</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Mon, 05 Oct 2026 15:14:14 +0300</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[## Улучшения
+
+- Улучшено определение имени устройства.
+
+## Improvements
+
+- Improved device name detection.]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.1/Letakof-android-arm64.apk" length="37445132" type="application/vnd.android.package-archive"/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Mon, 05 Oct 2026 02:15:46 +0300</pubDate>
             <sparkle:version>18</sparkle:version>
