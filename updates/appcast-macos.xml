@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof</title>
+        <item>
+            <title>0.6.1</title>
+            <pubDate>Thu, 15 Oct 2026 15:20:59 +0300</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Улучшения
+
+- Небольшие улучшения интерфейса.
+
+## Improvements
+
+- Minor interface improvements.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.6.1/Letakof-mac.dmg" length="79471786" type="application/octet-stream" sparkle:edSignature="B3TkOEqE/LBbUBEIODBCWIkZH3z9UAkkqr2tBEgNxXVBVZaRt7T1uo8n37xOWFafjrmC9PjKvDcyyaJePjelDQ=="/>
+        </item>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Tue, 13 Oct 2026 22:09:55 +0300</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- Расширенные настройки подключения.
+- Kill switch в режиме TUN.
+
+## New
+
+- Expanded connection settings.
+- Kill switch in TUN mode.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.6.0/Letakof-mac.dmg" length="79375758" type="application/octet-stream" sparkle:edSignature="liY7f57OYF0grqFwIoSIY08laa+MTCVHgy/QtQZPNTT+12i2494AUH8Ua3gljx8uRgvv/CZakO/FnP6/+W0BBw=="/>
+        </item>
+        <item>
+            <title>0.5.1</title>
+            <pubDate>Mon, 05 Oct 2026 15:30:53 +0300</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Улучшения
+
+- Улучшено определение имени устройства.
+
+## Improvements
+
+- Improved device name detection.
+
+## Исправления
+
+- Исправлена упаковка приложения для macOS.
+
+## Fixes
+
+- Fixed macOS application packaging.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.1/Letakof-mac.dmg" length="79320709" type="application/octet-stream" sparkle:edSignature="48b8q/pImFFcg3VlYD7EdB64vlAseRMHOnr+pSM+OoHB/0TpZkem3ZDc7Qjjs2Tj4m4I9hWV/HQYPzXpIxcSDg=="/>
+        </item>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Mon, 05 Oct 2026 03:19:55 +0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown">Версия 0.5.0 для macOS. Бета-релиз.
+
+Version 0.5.0 for macOS. Beta release.
+</description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.0/Letakof-mac.dmg" length="79307596" type="application/octet-stream" sparkle:edSignature="H53OT4kripUxUdOYMfpl9TV/kJfMGbc11vKq+TMOO7tM+95sf9nxE5DRjKBen5Vrfq3dsrWygku7APRH7xhrAA=="/>
+        </item>
+    </channel>
+</rss>
