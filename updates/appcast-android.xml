@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof for Android</title>
+        <item>
+            <title>0.7.0</title>
+            <pubDate>Mon, 19 Oct 2026 03:10:25 +0300</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- Единое приложение для телефона и Android TV: один установщик, интерфейс выбирается автоматически.
+
+## Улучшения
+
+- Обновлено сетевое ядро (Mihomo 1.19.32).
+
+## New
+
+- One app for phones and Android TV: a single installer, the interface is chosen automatically.
+
+## Improvements
+
+- Updated the network core (Mihomo 1.19.32).]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.7.0/Letakof-android-arm64.apk" length="63031421" type="application/vnd.android.package-archive"/>
+        </item>
+        <item>
+            <title>0.6.1</title>
+            <pubDate>Thu, 15 Oct 2026 15:20:41 +0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[## Улучшения
+
+- Небольшие улучшения интерфейса.
+
+## Improvements
+
+- Minor interface improvements.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.6.1/Letakof-android-arm64.apk" length="37527080" type="application/vnd.android.package-archive"/>
+        </item>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 14 Oct 2026 04:03:45 +0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- Расширенные настройки подключения.
+- Состояние системной блокировки трафика без VPN и переход в её настройки.
+- Активация ТВ: передача подписки на Android TV по QR-коду.
+
+## New
+
+- Expanded connection settings.
+- System VPN lockdown status and a shortcut to its settings.
+- TV activation: send your subscription to Android TV with a QR code.]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.6.0/Letakof-android-arm64.apk" length="37525800" type="application/vnd.android.package-archive"/>
+        </item>
+        <item>
+            <title>0.5.1</title>
+            <pubDate>Mon, 05 Oct 2026 15:14:14 +0300</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[## Улучшения
+
+- Улучшено определение имени устройства.
+
+## Improvements
+
+- Improved device name detection.]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.1/Letakof-android-arm64.apk" length="37445132" type="application/vnd.android.package-archive"/>
+        </item>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Mon, 05 Oct 2026 02:15:46 +0300</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[Версия 0.5.0 для Android. Бета-релиз.
+
+Version 0.5.0 for Android. Beta release.]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.5.0/Letakof-android-arm64.apk" length="37445504" type="application/vnd.android.package-archive"/>
+        </item>
+    </channel>
+</rss>

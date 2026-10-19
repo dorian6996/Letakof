@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof-intel</title>
+        <item>
+            <title>0.7.0</title>
+            <pubDate>Mon, 19 Oct 2026 03:08:07 +0300</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- Версия для Mac с процессором Intel (отдельный файл `Letakof-mac-intel.dmg`, macOS 14 и новее).
+- Обновлён значок приложения в строке меню.
+
+## Улучшения
+
+- Обновлено сетевое ядро (Mihomo 1.19.32).
+
+## New
+
+- A build for Intel Macs (separate `Letakof-mac-intel.dmg`, macOS 14 or later).
+- Updated the app icon in the menu bar.
+
+## Improvements
+
+- Updated the network core (Mihomo 1.19.32).
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.7.0/Letakof-mac-intel.dmg" length="88543754" type="application/octet-stream" sparkle:edSignature="Mdt4X1FbLYKAo7cDSL6Rxe33gZIPgNd/kQwREKsV7AejhHFvWwXEXorNHPjN9Awh6UHGh7bK/lExX6uhfcM5DA=="/>
+        </item>
+    </channel>
+</rss>
