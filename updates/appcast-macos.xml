@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof</title>
+        <item>
+            <title>0.7.1</title>
+            <pubDate>Tue, 20 Oct 2026 22:40:58 +0300</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- Добавлена поддержка заголовков подписки.
+
+## New
+
+- Added support for subscription headers.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.7.1/Letakof-mac.dmg" length="79778080" type="application/octet-stream" sparkle:edSignature="Fm9rNbNLOBC40Ib3P+/Er9DJsaLyu6dyw1cEKSNGRqIJBz1HOEtoRSFu2w2hAJ6/gUjSrffakRRq5wXPI7q1BA=="/>
+        </item>
+    </channel>
+</rss>

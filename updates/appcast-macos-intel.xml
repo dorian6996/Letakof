@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof-intel</title>
+        <item>
+            <title>0.7.1</title>
+            <pubDate>Tue, 20 Oct 2026 22:41:02 +0300</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- Добавлена поддержка заголовков подписки.
+
+## New
+
+- Added support for subscription headers.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.7.1/Letakof-mac-intel.dmg" length="88581255" type="application/octet-stream" sparkle:edSignature="Ovse0bey+/jefSIOEt6A3JvkrUn2GGfOvPoS185IGsF7U0Q7E0d8h4vZaF4SrUo52ltqGMsWXJShj9lmVIc7Cg=="/>
+        </item>
+    </channel>
+</rss>
