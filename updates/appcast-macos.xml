@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof</title>
+        <item>
+            <title>0.8.1</title>
+            <pubDate>Wed, 21 Oct 2026 23:04:11 +0300</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Исправления
+
+- Исправления раздела редактирования DNS.
+
+## Fixes
+
+- Fixes to the DNS editing section.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.8.1/Letakof-mac.dmg" length="79955297" type="application/octet-stream" sparkle:edSignature="Z/7fkIZdtM0nVkQSu1sM1i14OgyKO9oYLPhAk4nBUtObwZSXdrB5VTtwdR4aemmCwBsoulAXOo8xjMcGILPdDA=="/>
+        </item>
+    </channel>
+</rss>
