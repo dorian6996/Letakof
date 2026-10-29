@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Letakof-intel</title>
+        <item>
+            <title>0.8.2</title>
+            <pubDate>Fri, 30 Oct 2026 00:16:38 +0300</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Улучшения
+
+- Ядро Mihomo обновлено до 1.19.33.
+- Расширены настройки проверки задержки.
+- Добавлена настройка DNS системы в режиме TUN.
+
+## Improvements
+
+- Updated the Mihomo core to 1.19.33.
+- Expanded latency test settings.
+- Added a system DNS setting for TUN mode.
+]]></description>
+            <enclosure url="https://github.com/dorian6996/Letakof/releases/download/v0.8.2/Letakof-mac-intel.dmg" length="88937755" type="application/octet-stream" sparkle:edSignature="lxHFww/B0N3sDvEzdbY6W6LQjS3+GZ79r9G0V2j8c2kR1p+TQzbDFTi70RX6SzC5f6nYXBo/XtnDgFOBjv1TCg=="/>
+        </item>
+    </channel>
+</rss>
